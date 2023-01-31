@@ -1,2 +1,1 @@
-# prepcoursehenry
-Este es un repositorio de prueba del prepcoursehenry
+Este proyecto es una prueba para poder clonar un repositorio desde github
